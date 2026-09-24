@@ -1,1 +1,1 @@
-# ITI-Statistics-CaseStudy1
+# ITI-Statistics-Case-Study2
